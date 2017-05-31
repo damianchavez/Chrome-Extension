@@ -1,6 +1,11 @@
 body {
-    background-color: #999 !important;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdaRXAGuw_JyKDclqucwtwg5ZXs4xl1u_aDKDlBedNXj6j9CsEHA") !important;
+    background-size: cover !important;
+    /* Center and scale the image nicely */
 }
 a {
-    color: #1fa !important;
+    font-family: cursive !important;
+    font-size: 15px !important;
+    color: #abc;
 }
+

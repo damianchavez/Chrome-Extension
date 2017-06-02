@@ -3,7 +3,7 @@ body {
     background-size: cover !important;
     /* Center and scale the image nicely */
 }
-a {
+a:hover {
     font-family: cursive !important;
     font-size: 15px !important;
     color: #FF0000 !important;
@@ -21,4 +21,13 @@ img:hover {
     -ms-transform: scale(1.2) !important;
     transform: scale(1.2) !important;
     box-shadow: inset 0 0 0 25px #D1D1BA !important;
+}
+input[type="text"], textarea {
+
+  background-color : #696969 !important; 
+  color: #191970 !important;
+}
+a {
+    font-family:sans-serif !important;
+    color: #00cc00 !important;
 }
